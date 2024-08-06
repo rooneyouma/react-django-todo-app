@@ -1,3 +1,3 @@
 Simple Todo app
 
-django rest-framework API
+Django REST API and React JS frontend.
